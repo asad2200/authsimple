@@ -1,7 +1,11 @@
-# authsimple
+# AUTHSIMPLE
 
 authsimple is a Django app to implement simple authentication
 in django project.
+
+package link - https://pypi.org/project/django-authsimple/
+
+Full projectSource code link - https://github.com/asad2200/BasicAuth
 
 ## Quick start
 
