@@ -31,6 +31,7 @@ Quick start
     SENDER_EMAIL_ID = "YOUR_MAIL_ID"
     SENDER_PASSWORD = 'YOUR MAIL_ID PASSWORD'
     SERVER_NAME = 'smtp.gmail.com'            # for gmail (use your mail servername)
+    # NOTE : TURN ON LESS SECURE APP OPTION IN UR GOOGLE ACCOUNT
 
 4. Run ``python manage.py migrate`` to create the authentication models.
 
